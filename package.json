@@ -11,6 +11,7 @@
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
+  "author": "Your Name",
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
