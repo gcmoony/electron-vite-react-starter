@@ -10,10 +10,15 @@ First, clone this repository:
 git clone https://github.com/gcmoony/electron-vite-react-starter.git
 ```
 
-Then navigate to the project directory and start the Electron app:
+Then navigate to the project directory:
 
 ```
 cd electron-vite-react-starter
+npm install
+```
+
+Then run the app:
+```
 npm run start
 ```
 
